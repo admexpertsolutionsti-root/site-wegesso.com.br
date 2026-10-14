@@ -183,7 +183,7 @@ export function SecaoContato() {
               <div className="mt-6 overflow-hidden rounded-2xl border border-white/10">
                 <iframe
                   title="Localização no mapa"
-                  src="https://www.google.com/maps?q=R.%20Dra%20Kazzue%20Panetta,%207%20-%20Jardim%20Santa%20Rosa,%20Campinas%20-%20SP&output=embed"
+                  src="https://www.google.com/maps?q=-22.9728095%2C-47.1171554&output=embed"
                   className="h-56 w-full grayscale transition-all duration-700 hover:grayscale-0"
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"

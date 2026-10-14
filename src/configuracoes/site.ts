@@ -10,20 +10,20 @@
 
 export const configuracoesDoSite = {
   /** Identidade */
-  nomeDaEmpresa: "WGessos",
+  nomeDaEmpresa: "WE Gessos",
   slogan: "A solução ideal em gesso para você",
   cidade: "Campinas",
   estado: "SP",
 
   /** Contato */
-  telefone: "(19) 99540-5021",
+  telefone: "(19) 99441-4007",
   /** Somente números, com DDI 55 — usado nos links do WhatsApp */
-  whatsapp: "5519995405021",
-  email: "contato@gessogesseiro.com.br",
-  endereco: "Rua Doutora Kazzue Panetta, nº 7 — Jardim Santa Rosa, Campinas/SP",
+  whatsapp: "5519994414007",
+  email: "wiliam.goncalves@wegesso.com.br",
+  endereco: "Rua Sete de Novembro - Vila Aeroporto, Campinas/SP",
   linkDoMapa:
-    "https://www.google.com/maps/place/R.+Dra+Kazzue+Panetta,+7+-+Jardim+Santa+Rosa,+Campinas+-+SP",
-  horarioDeAtendimento: "Segunda a sábado, das 8h às 18h",
+    "https://maps.google.com/maps?q=-22.9728095%2C-47.1171554&z=17&hl=pt-BR",
+  horarioDeAtendimento: "Segunda a Sexta, das 8h às 18h",
 
   /** Mensagem padrão já preenchida ao abrir o WhatsApp */
   mensagemPadraoWhatsapp:
@@ -31,8 +31,8 @@ export const configuracoesDoSite = {
 
   /** Redes sociais (deixe string vazia para ocultar o ícone) */
   redesSociais: {
-    instagram: "https://instagram.com/",
-    facebook: "https://facebook.com/",
+    instagram: "https://www.instagram.com/w_gesso7?stkn=Njk5NWptN2ltM3Vm",
+    facebook: "",
     youtube: "",
   },
 
